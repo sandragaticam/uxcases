@@ -1,6 +1,7 @@
 # uxcases
 
-You will find a description of my ux projects 
+Hi!
+You will find a few wireframes and documentation of my ux projects 
 
 I hope you enjoy!
 
